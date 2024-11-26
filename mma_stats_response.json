@@ -1,54 +1,55 @@
 [
     {
-        "Name": "Max Holloway",
-        "Nickname": "Blessed",
-        "Division Title": "Featherweight Division",
+        "Name": "Sean Strickland",
+        "Nickname": "",
+        "Division Title": "Middleweight Division",
         "Division Body": {
-            "Wins": "26",
-            "Losses": "7",
+            "Wins": "29",
+            "Losses": "6",
             "Draws": "0"
         },
         "Fighter Bio": {
             "Status": "Active",
-            "Hometown": "Waianae, United States",
-            "Trains at": "Hawaii Elite MMA - Hawaii",
-            "Fighting style": "Muay Thai",
-            "Age": "32",
-            "Height": "71.00",
-            "Weight": "156.00",
-            "Octagon Debut": "Feb. 4, 2012",
-            "Reach": "69.00",
-            "Leg reach": "42.00"
+            "Hometown": "United States",
+            "Trains at": "Millennia MMA, Rancho, CA",
+            "Fighting style": "MMA",
+            "Age": "33",
+            "Height": "73.00",
+            "Weight": "185.00",
+            "Octagon Debut": "Mar. 15, 2014",
+            "Reach": "76.00",
+            "Leg reach": "41.50"
         },
         "Win Stats": {
-            "Wins by Knockout": "12",
-            "Wins by Submission": "2"
+            "Wins by Knockout": "11",
+            "Wins by Submission": "4",
+            "First Round Finishes": "9"
         },
         "Records": {
-            "Sig. Str. Landed": "7.17",
-            "Sig. Str. Absorbed": "4.72",
-            "Takedown avg": "0.25",
-            "Submission avg": "0.32",
-            "Sig. Str. Defense": "59%",
-            "Takedown Defense": "84%",
-            "Knockdown Avg": "0.35",
-            "Average fight time": "16:15",
-            "Sig. Strikes Landed": "3378",
-            "Sig. Strikes Attempted": "7023",
-            "Takedowns Landed": "4",
-            "Takedowns Attempted": "15",
-            "Striking accuracy": "48%",
-            "Takedown Accuracy": "53%"
+            "Sig. Str. Landed": "6.01",
+            "Sig. Str. Absorbed": "4.48",
+            "Takedown avg": "0.78",
+            "Submission avg": "0.17",
+            "Sig. Str. Defense": "62%",
+            "Takedown Defense": "77%",
+            "Knockdown Avg": "0.26",
+            "Average fight time": "15:39",
+            "Sig. Strikes Landed": "2069",
+            "Sig. Strikes Attempted": "4901",
+            "Takedowns Landed": "11",
+            "Takedowns Attempted": "28",
+            "Striking accuracy": "42%",
+            "Takedown Accuracy": "64%"
         },
         "Win by Method": {
-            "Standing": "2961 (88%)",
-            "Clinch": "245 (7%)",
-            "Ground": "172 (5%)"
+            "Standing": "1891 (91%)",
+            "Clinch": "75 (4%)",
+            "Ground": "103 (5%)"
         },
-        "Image Link": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-04/HOLLOWAY_MAX_L_04-13.png?itok=U9IB8OUQ",
+        "Image Link": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-05/STRICKLAND_SEAN_L_06-01.png?itok=P-RTRoAH",
         "Last Fight": {
-            "Event": "Gaethje vs Holloway",
-            "Date": "Apr. 13, 2024"
+            "Event": "Strickland vs Costa",
+            "Date": "Jun. 1, 2024"
         },
         "Fighter Facts": [],
         "UFC History": [],

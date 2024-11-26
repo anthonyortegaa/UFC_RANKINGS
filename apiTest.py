@@ -4,7 +4,7 @@ import os
 load_dotenv("API_KEY.env") 
 API_KEY = os.getenv('API_KEY')
 
-# test start
+#start
 import json
 import requests
 
@@ -17,7 +17,7 @@ headers = {
     "X-RapidAPI-Host": "mma-stats.p.rapidapi.com"
 }
 
-querystring = {"name": "Max Holloway"}
+querystring = {"name": "Sean Strickland"}
 
 response = requests.get(url, headers=headers, params=querystring)
 if response.status_code == 200:
